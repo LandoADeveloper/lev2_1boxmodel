@@ -1,0 +1,49 @@
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+body {
+    border-top: thin solid black;
+}
+h1 {
+    border: thin dashed blue;
+    border-radius: 15px;
+    padding: 10px 25px;
+    margin: 5px 25px 10px 25px;
+
+}
+
+p {
+    border: thin solid red;
+    margin: 10px 50px;
+    padding: 25px;
+}
+
+h2 {
+    border: thin solid blue;
+    border-radius: 15px;
+    padding: 10px 50px;
+    margin: 5px 25px 10px 25px;
+}
+
+ol {
+    border: thin solid gray;
+    margin: 10px 50px;
+    padding: 25px 50px;
+}
+h3 {
+    border: thick double blue;
+    border-radius: 15px;
+    padding: 10px 50px;
+    margin: 5px 25px 10px 25px;
+    text-align: center;
+}
+ul {
+    border: thin solid gray;
+    margin: 10px 50px;
+    padding: 25px 50px;
+}
+ul li {
+    text-decoration: underline;
+}
